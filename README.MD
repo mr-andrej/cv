@@ -1,6 +1,7 @@
 # ILIEVSKI Andrej
 WebDev in training
-    ![Tux, the Linux mascot](https://scontent-vie1-1.cdninstagram.com/v/t51.2885-19/120823866_973812506466707_5279086482378134898_n.jpg?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_ohc=JkDy2gWYS7YAX-0Qq2u&oh=4471d33f1e02caa8f05e61d889115594&oe=5FD18447)
+
+![Me, Andrej](https://i.imgur.com/X1boVdL.jpg) 
 
 
 E-mail: mrandrej.ilievski@gmail.com
